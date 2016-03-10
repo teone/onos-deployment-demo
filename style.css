@@ -27,6 +27,11 @@ body {
 /* Footer
 -------------------------------------------------- */
 
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
 footer img {
   height: 27px;
   display: inline-block;
